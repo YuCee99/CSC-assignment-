@@ -1,3 +1,6 @@
+// UCHE UCHECHUKWU DIVINEWISDOM
+// SOFTWARE ENGINEERING
+// CMP2307623
 #include <stdio.h> // Include standard input-output header file
 
 int main() {
